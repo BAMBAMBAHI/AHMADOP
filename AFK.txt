@@ -1,0 +1,5 @@
+{
+	"ip":"BAMWARS.aternos.me",
+	"port": "41882",
+	"name": "afkbot"
+}
